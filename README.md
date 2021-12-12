@@ -1,4 +1,2 @@
 # macOS
-
-=======
 # Author : Alex
